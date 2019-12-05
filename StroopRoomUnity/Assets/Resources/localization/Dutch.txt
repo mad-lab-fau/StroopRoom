@@ -1,0 +1,14 @@
+﻿welcome=Welkom bij de
+selection=Kies een kamer:
+noselection=Niets geselecteerd!
+room0=Kamer 0 geselecteerd
+roomA=Kamer A geselecteerd
+roomB=Kamer B geselecteerd
+roomC=Kamer C geselecteerd
+right=Correct:
+wrong=Incorrect:
+practice=--- Oefenen ---
+pause= tot incongruente test
+pauseIncongFirst= tot congruent test
+end=Dank u!
+

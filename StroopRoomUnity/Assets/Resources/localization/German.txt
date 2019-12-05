@@ -1,0 +1,18 @@
+﻿welcome=Willkommen im
+selection=Wähle einen Raum:
+noselection=Nichts ausgewählt!
+room0=Raum 0 ausgewählt
+roomA=Raum A ausgewählt
+roomB=Raum B ausgewählt
+roomC=Raum C ausgewählt
+right=Richtig:
+wrong=Falsch:
+practice=--- Übung ---
+pause= bis zum inkongruenten Test
+pauseIncongFirst= bis zum kongruenten Test
+end=Danke!
+
+
+
+
+

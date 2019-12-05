@@ -1,0 +1,23 @@
+﻿welcome=Bienvenido al {0} Stroop Room!
+selection=Elige una sala:
+noselection=Nada seleccionado
+room0=Sala 0 seleccionada
+roomA=Sala A seleccionada
+roomB=Sala B seleccionada
+roomC=Sala C seleccionada
+start=COMIENZO
+right=Correcto:
+wrong=Incorrecto:
+practice=--- Práctica ---
+pause= hasta la prueba congruente
+end=Gracias!
+
+
+word=PALABRA
+color=COLOR
+blue=AZUL
+red=ROJO
+green=VERDE
+yellow=AMARILLO
+purple=PÚRPURA
+orange=NARANJADO

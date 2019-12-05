@@ -1,0 +1,14 @@
+﻿welcome=Welcome to the
+selection=Select a room:
+noselection=Nothing selected!
+room0=Room 0 selected
+roomA=Room A selected
+roomB=Room B selected
+roomC=Room C selected
+right=Right:
+wrong=Wrong:
+practice=--- Practice ---
+pause= until incongruent test
+pauseIncongFirst= until congruent test
+end=Thank you!
+
